@@ -13,17 +13,17 @@ arrayString.sacolao = [
     {
       nome: 'banana',
       preco: 4,
-      disponibilidade: 0>100, 
+      disponibilidade: true, 
     },
     {
       nome: 'uva',
       preco: 8,
-      disponibilidade: 0>50,
+      disponibilidade: false,
     },
     {
       nome: 'perâ',
       preco: 2 ,
-      quantidade: 0>80 ,
+      quantidade: true ,
     },
   ]
 
